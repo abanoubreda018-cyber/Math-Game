@@ -1,0 +1,20 @@
+# Compiled Executables & Objects
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# IDE & Editor files
+.vs/
+.vscode/
+*.user
+*.suo
+x64/
+Debug/
+Release/
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
